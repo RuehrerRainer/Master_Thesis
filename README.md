@@ -1,4 +1,4 @@
-![Modellstruktur](https://github.com/RuehrerRainer/Master_Thesis/assets/103190984/5f2bc678-7aa9-43dd-862d-b856dd96f9b4)# Master_Thesis
+# Master_Thesis
 This repository contains the finalized code used in the Master Thesis. Including the scripts used in DWSIM as well as the Program and all underlying scripts.
 
 # Getting Started
