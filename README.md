@@ -5,7 +5,7 @@ This repository contains the finalized code used in the Master Thesis. Including
 Using the scripts requires an installation of DWSIM (https://dwsim.org/index.php/download/) and an installation of Python. For all simulations in the thesis, Python Version 3.9.16 and DWSIM version 8.5.1 were used.
 The Python environment can be setup using the req.txt file by running the following command using conda:
 
-$ conda create -n <environment-name> --file req.txt
+$ conda create -n \<environment-name\> --file req.txt
 
 # Repository Structure
 - Supplementaries:
