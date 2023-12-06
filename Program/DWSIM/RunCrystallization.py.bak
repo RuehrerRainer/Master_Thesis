@@ -37,7 +37,7 @@ from DWSIM.Automation import Automation3
 Directory.SetCurrentDirectory(dwsimpath)
 
 interf = Automation3()
-sim = interf.LoadFlowsheet2(Filepath + "Crystallization.dwxmz")
+sim = interf.LoadFlowsheet2(Filepath + "Crystallization2.dwxmz")
 errors = interf.CalculateFlowsheet4(sim)
 #if sys.argv[2] == "Simulation":
 #    print([1 , 1])
