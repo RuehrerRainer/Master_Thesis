@@ -26,4 +26,6 @@ $ conda create -n \<environment-name\> --file req.txt
 # GUI structure
 ![ModelStructure](https://github.com/RuehrerRainer/Master_Thesis/assets/103190984/1a9cfaa5-190a-43f4-8635-30583460a00d)
 
-
+# Further information
+All model equations and relations are thoroughly explained in https://github.com/RuehrerRainer/Master_Thesis/blob/main/TechnicalManual.pdf
+Additionally, an extensive list of sources can be found here.
