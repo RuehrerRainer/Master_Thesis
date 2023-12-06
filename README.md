@@ -7,6 +7,11 @@ The Python environment can be setup using the req.txt file by running the follow
 
 $ conda create -n \<environment-name\> --file req.txt
 
+Taking full advantage of the integrated interface with the WolframAlpha API requires a personalized key for the WolframAlpha Simple API. Detailed instructions for obtaining a key can be found here: https://products.wolframalpha.com/simple-api/documentation
+The API key needs to be provided to the "CrystallizerProgram2.py" file.
+
+As the Python scripts in DWSIM cannot properly read the file location, the filepath needs to be adjusted manually for each script. The filepath is clearly marked at the top of the script and needs to be changed to the location of the "Input.json" file.
+
 # Repository Structure
 - Supplementaries:
     Contains additional "nice-to-have" files. Includes gifs of both optimization algorithms and the template files for entering custom Crystal Size Distributions and for employing the fitting algorithm
@@ -26,4 +31,6 @@ $ conda create -n \<environment-name\> --file req.txt
 # GUI structure
 ![ModelStructure](https://github.com/RuehrerRainer/Master_Thesis/assets/103190984/1a9cfaa5-190a-43f4-8635-30583460a00d)
 
-
+# Further information
+All model equations and relations are thoroughly explained in https://github.com/RuehrerRainer/Master_Thesis/blob/main/TechnicalManual.pdf
+Additionally, an extensive list of sources can be found here.
